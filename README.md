@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Shravani Ankur Wanjari
-
-I am a B.Tech student with a fervor for crafting meaningful digital experiences. While I'm still on the journey to mastering design, my passion drives me to create user-centric interfaces that truly matter. Every day, I immerse myself in the world of Frontend Development, UI/UX Design, and Human-Computer Interaction, drawing inspiration from diverse platforms where industry experts share their invaluable insights. My goal is to bring real-life applications to the forefront, aiming to positively enhance the field of Human-Computer Interaction.
+Currently pursuing Computer Science Engineering for my B. Tech degree. My passion? Human-Computer Interaction (HCI). I thrive on understanding things from the user's point of view, which naturally led me to explore UI/UX Design. Thanks to some nudges from friends during my Computer Science journey, I found my way to the intriguing world of HCI. My goal is to create tech solutions that make a positive impact. Let's make technology work better for everyone!
 
 ## 🔧 Technologies & Tools
 
