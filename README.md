@@ -19,7 +19,7 @@ I'm currently focused on learning and mastering:
 
 - Intern at **Ozibook**, a Bangalore-based startup (Remote Work)
   - Team Lead for the UI/UX Development Team
-  - Currently working on the website for **Cotravelin**
+  - Currently working on the website for **Cotravelin** and **KESS Construction**
 
 - Project: **Virtual Study Room Platform (Studisphere)**
   - Developing a web application as part of the Web Technologies subject
