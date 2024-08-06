@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Shravani Ankur Wanjari
-Currently pursuing Computer Science Engineering for my B. Tech degree. My passion? Human-Computer Interaction (HCI). I thrive on understanding things from the user's point of view, which naturally led me to explore UI/UX Design. Thanks to some nudges from friends during my Computer Science journey, I found my way to the intriguing world of HCI. My goal is to create tech solutions that make a positive impact. Let's make technology work better for everyone!
+Currently pursuing Computer Science Engineering for my B. Tech degree. My interests include Cybersecurity and Human-Computer Interaction (HCI). In Cybersecurity, I enjoy learning about testing systems for vulnerabilities. My HCI focus is on researching because working on the edge of knowledge and finding out how to make things work better for user is a very intriguing thing for me. I believe technology should be both safe and fun to use, which motivates me to combine these fields in my work. To enhance my projects, I also apply surface-level machine learning concepts, particularly in areas where Cybersecurity and HCI intersect.
 
 ## 🔧 Technologies & Tools
 
 - **Programming Languages:** HTML, CSS, JavaScript, Python
-- **Frameworks & Libraries:** Learning React
 - **Databases:** SQL, NoSQL (MongoDB)
 - **Design:** Figma (For UI/UX Development)
+- **Security:** Learning about SIEM tools, Google's Chronicle, Port Scanning, etc. 
 
 ## 🌱 Currently Learning
 
@@ -31,8 +31,6 @@ I'm currently focused on learning and mastering:
   - Facilitating information for both students and administrative staff
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shravaniawanjari&show_icons=true&locale=en" alt="shravaniawanjari" /></p>
-
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://twitter.com/shravaniwanjari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shravaniwanjari" height="30" width="40" /></a>
@@ -40,5 +38,3 @@ I'm currently focused on learning and mastering:
 </p>
 
 - 📫 **22shravani.wanjari@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-c8KxJLJvTMukG_4JMwPzqpsY_U9mDIS/view?usp=drive_link](https://drive.google.com/file/d/1-c8KxJLJvTMukG_4JMwPzqpsY_U9mDIS/view?usp=drive_link)
