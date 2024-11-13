@@ -12,8 +12,10 @@ Currently pursuing Computer Science Engineering for my B. Tech degree. My intere
 
 I'm currently focused on learning and mastering:
 
-- Cybersecurity
 - Human Computer Interaction
+- App Dev
+- Web Dev
+- DevOps
 
 ## 💼 Work
 - Intern at AI Research Center (On-Site) (On-Going)
