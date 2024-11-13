@@ -4,7 +4,7 @@ Currently pursuing Computer Science Engineering for my B. Tech degree. My intere
 ## 🔧 Technologies & Tools
 
 - **Programming Languages:** HTML, CSS, JavaScript, Python
-- **App Dev:**Flutter, React Native
+- **App Dev:** Flutter, React Native
 - **Databases:** SQL, NoSQL (MongoDB)
 - **Design:** Figma (For UI/UX Development)
 - **Devops:** Docker, Kubernetes
