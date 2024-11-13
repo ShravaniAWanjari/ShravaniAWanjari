@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Shravani Ankur Wanjari
-Currently pursuing Computer Science Engineering for my B. Tech degree. My interests include Cybersecurity and Human-Computer Interaction (HCI). In Cybersecurity, I enjoy learning about testing systems for vulnerabilities. My HCI focus is on researching because working on the edge of knowledge and finding out how to make things work better for user is a very intriguing thing for me. I believe technology should be both safe and fun to use, which motivates me to combine these fields in my work. To enhance my projects, I also apply surface-level machine learning concepts, particularly in areas where Cybersecurity and HCI intersect.
+I'm a Computer Science Engineering student focused on Human-Computer Interaction (HCI), with experience in app development, web development, and DevOps. My passion lies in understanding how users interact with technology and ensuring that these interactions are intuitive and easy to use. Skilled in creating user-centered applications that balance usability and performance, I work well with teams to deliver effective solutions for diverse user needs and look forward to applying my skills on impactful projects.
 
 ## 🔧 Technologies & Tools
 
