@@ -1,43 +1,44 @@
-# 👋 Hello, I'm Shravani Ankur Wanjari
-I'm a Computer Science Engineering student focused on Human-Computer Interaction (HCI), with experience in app development, web development, and DevOps. My passion lies in understanding how users interact with technology and ensuring that these interactions are intuitive and easy to use. Skilled in creating user-centered applications that balance usability and performance, I work well with teams to deliver effective solutions for diverse user needs and look forward to applying my skills on impactful projects.
+Here's the revised version based on your new focus:  
 
-## 🔧 Technologies & Tools
+---
 
-- **Programming Languages:** HTML, CSS, JavaScript, Python
-- **App Dev:** Flutter, React Native
-- **Databases:** SQL, NoSQL (MongoDB)
-- **Design:** Figma (For UI/UX Development)
-- **Devops:** Docker, Kubernetes
+# 👋 Hello, I'm Shravani Ankur Wanjari  
+I'm a Computer Science Engineering student who's really into Quantitative Finance these days. I've always liked numbers and tech, and this feels like the perfect mix of both. I still work with web development and DevOps because they're practical, but I’ve found I really enjoy digging into data to understand and predict market trends. It’s exciting to see how everything connects.
 
-## 🌱 Currently Learning
+## 🔧 Technologies & Tools  
 
-I'm currently focused on learning and mastering:
+- **Programming Languages:** Python
+- **Web Dev tools:** Bootstap, React, Node.js
+- **DevOps:** Docker, Kubernetes
 
-- Human Computer Interaction
-- App Dev
-- Web Dev
-- DevOps
+## 🌱 Currently Learning  
 
-## 💼 Work
-- Intern at AI Research Center (On-Site) (On-Going)
-  - Worked on a research paper about Effects of Music on Brainwaves.
-  - Learned how to utilize EEG and perform ML tasks to classify EEG data and analyze findings.
+I'm currently learning:  
 
-- Intern at **Ozibook**, a Bangalore-based startup (Remote Work)
-  - Team Lead for the UI/UX Development Team
-  - Worked on the websites for **Cotravelin** and **KESS Construction**
+- Quantitative Finance
+- Backtesting  
+- Financial Modeling and Analysis  
+- Advanced Python for Finance  
 
-## 🤝 Contributions
+## 💼 Work  
 
-- Contributed to the development of **UniFYI** (Prototype)
-  - An application enhancing administration at my university
-  - Facilitating information for both students and administrative staff
-<br>
+- **Intern at AI Research Center (On-Site) (On-Going)**  
+  - Conducted research on the **Effects of Music on Brainwaves** using EEG data.  
+  - Utilized **machine learning** techniques for classifying and analyzing EEG data.  
 
-<h3 align="left">Connect with me:</h3> 
-<p align="left">
-<a href="https://twitter.com/shravaniwanjari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shravaniwanjari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shravani-wanjari-2197ba22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shravani-wanjari-2197ba22a/" height="30" width="40" /></a>
-</p>
+- **Intern at Ozibook**, a Bangalore-based startup (Remote Work)  
+  - Team Lead for the UI/UX Development Team  
+  - Contributed to the websites for **Cotravelin** and **KESS Construction**  
 
-- 📫 **22shravani.wanjari@gmail.com**
+## 🤝 Contributions  
+
+- Contributed to the development of **UniFYI** (Prototype)  
+  - A university administration application enhancing information accessibility for students and staff.  
+
+<h3 align="left">Connect with me:</h3>  
+<p align="left">  
+<a href="https://twitter.com/shravaniwanjari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shravaniwanjari" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shravani-wanjari-2197ba22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shravani-wanjari-2197ba22a/" height="30" width="40" /></a>  
+</p>  
+
+- 📫 **22shravani.wanjari@gmail.com**  
