@@ -1,7 +1,3 @@
-Here's the revised version based on your new focus:  
-
----
-
 # 👋 Hello, I'm Shravani Ankur Wanjari  
 I'm a Computer Science Engineering student who's really into Quantitative Finance these days. I've always liked numbers and tech, and this feels like the perfect mix of both. I still work with web development and DevOps because they're practical, but I’ve found I really enjoy digging into data to understand and predict market trends. It’s exciting to see how everything connects.
 
