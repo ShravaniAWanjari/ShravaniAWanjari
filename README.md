@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Shravani Ankur Wanjari  
 
-I'm a **third-year Computer Science and Engineering student** with a deep interest in **Quantitative Finance**. My background in **computer science, mathematics, and machine learning** helps me explore financial modeling, risk management, and algorithmic trading. While I still work with **web development** and **DevOps**, my main focus is applying **ML in finance** to analyze and predict market trends.  
+I'm a **third-year Computer Science and Engineering student** with a deep interest in **Quantitative Finance**. My background in **computer science, mathematics, and machine learning** helps me explore financial modeling, risk management, and algorithmic trading.
 
 ## 🔧 Technologies & Tools  
 
