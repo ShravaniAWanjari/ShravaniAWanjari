@@ -1,47 +1,14 @@
 # 👋 Hello, I'm Shravani Ankur Wanjari  
 
-I'm a **third-year Computer Science and Engineering student** with a deep interest in **Quantitative Finance**. My background in **computer science, mathematics, and machine learning** helps me explore financial modeling, risk management, and algorithmic trading.
+Finished my third year of Btech CSE. Working on a bunch of projects some involving research while others being applications in the quant finance.
 
-## 🔧 Technologies & Tools  
+# Projects
+While I have worked on multiple projects, I dont think there was much learning that took place due to ✨'vibe coding'✨, so I will mention my actual projects once I am confident about them.
 
-- **Programming Languages:** Python, C++, OCaml, R  
-- **Mathematics & Statistics:** Linear Algebra, Probability, Calculus  
-- **Quantitative Finance:** Financial Modeling, Risk Management, Asset Pricing, Portfolio Optimization  
-- **Machine Learning in Finance:** Predictive Modeling, Algorithmic Trading, Risk Assessment  
-- **Tools & Libraries:** NumPy, Pandas, SciPy, Scikit-Learn, TensorFlow, QSTrader, QuantLib, Pyfolio, Backtrader  
-- **Web Development & DevOps:** Flutter, Firebase, Docker, Kubernetes  
+# Experience
+- one useless experience of UI Design Internship. Only thing useful I learnt was how to not be sarcastic when your supervisor is being annoying.
+- Research Intern at my university's AI Research Center where vibe coding got me an accepted paper at an IEEE conference in a field I never really want to work on again (eeg signals😭😭😭)
 
-## 🌱 Currently Learning  
 
-- Advanced Financial Modeling & Market State Inference  
-- Reinforcement Learning for Asset Allocation  
-- Federated Learning for Cybersecurity Applications  
-
-## 💼 Work Experience  
-
-### **Research Intern | AI Research Centre, Woxsen University** *(Feb 2024 - Jul 2024)*  
-- Researched **Brain-Machine Interaction** using EEG and the effects of music on brain waves.  
-- Applied ML models (**Random Forest, KNN, Clustering**) to improve classification accuracy.  
-- Writing a research paper on **XGBoost-based Emotion Classification in
-Healthcare Using Electroencephalogram Signals**.
-- Paper Accepted at IEEE CAI 2025 
-
-### **UI Design Intern | Ozibook** *(Dec 2023 - Feb 2024)*  
-- Assisted in meeting client requirements for website design and updates.  
-- Created **wireframes and prototypes using Figma** for visualization.  
-- Implemented designs on the **Wix platform**.  
-
-## 🔬 Research & Projects  
-
-### **Ensemble-Based Market State Inference and Decision Modeling** *(Jan 2025 - Ongoing)*  
-- Designed an **ensemble framework** integrating **supervised, unsupervised, and reinforcement learning**.  
-- Developed **market clustering, asset behavior prediction, and asset allocation optimization** models.  
-- Engineered a feature set using **returns, volatility, liquidity, and macroeconomic indicators**.  
-
-### **FedSecure** *(Jul 2024 - Dec 2024)*  
-- Integrated **federated learning** into a honeypot system for collaborative attack detection.  
-- Enhanced anomaly detection accuracy while preserving privacy.  
-
-## 🤝 Let's Connect!  
-📌 **LinkedIn**: [shravani-wanjari-2197ba22a](https://www.linkedin.com/in/shravani-wanjari-2197ba22a)  
-📧 **Email**: [shravani22wanjari@gmail.com](mailto:shravani22wanjari@gmail.com)  
+# Let's Connect
+Lets not.
