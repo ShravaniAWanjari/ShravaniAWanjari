@@ -1,8 +1,5 @@
 # 👋🏻 Hi I am Shravani Ankur Wanjari  
-### Final Year Computer Science & Engineering Student | AI/ML & Quant Finance Enthusiast  
-
 ![Error Loading Cat](https://media1.tenor.com/m/N8vyVQh1E-gAAAAd/error-loading.gif)
-
 
 ## About Me
 
