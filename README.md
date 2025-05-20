@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a final-year Computer Science student (graduating 2026) focused on **AI/ML**, especially for **Quant Finance**.
+I'm a final-year student (graduating 2026) focused on **AI/ML**, especially for **Quant Finance**.
 
 My toolkit includes **Python, C++, R**, and I know my way around **Docker, Kubernetes, FastAPI, and AWS** for deployment.
 
