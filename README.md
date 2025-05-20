@@ -1,9 +1,12 @@
-# Shravani Ankur Wanjari  
+# 👋🏻 Hi I am Shravani Ankur Wanjari  
 ### Final Year Computer Science & Engineering Student | AI/ML & Quant Finance Enthusiast  
 
-![Error Cat](assets/error-cat.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/N8vyVQh1E-gAAAAd/error-loading.gif" alt="Error Loading Cat" />
+</p>
 
-## 📌 About Me
+
+## About Me
 
 I'm a final-year Computer Science and Engineering student at **Woxsen University**, graduating in **2026**.  
 My core academic and professional interests lie at the intersection of **AI/ML** and **Quant Finance**, supported by a strong mathematical foundation.
@@ -19,7 +22,7 @@ designed to deliver intelligent and transparent market insights.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Languages:** Python, C++, R  
 - **AI/ML:** NLP, Time Series Analysis, Autonomous Agents, Explainable AI (XAI)  
@@ -29,7 +32,7 @@ designed to deliver intelligent and transparent market insights.
 
 ---
 
-### For Collaboration and further discussion on my work:
+### To Collaborate or further discuss:
 
 * **Email:** shravani22wanjari@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/shravani-wanjari-2197ba22a/
