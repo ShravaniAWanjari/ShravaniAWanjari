@@ -20,7 +20,6 @@ My technical toolkit includes **Python, C++, and R**. I also have hands-on exper
 I'm currently developing an **Autonomous Explainable AI (XAI) Agent for Financial Market Intelligence**,  
 designed to deliver intelligent and transparent market insights.
 
----
 
 ## Skills
 
@@ -30,11 +29,9 @@ designed to deliver intelligent and transparent market insights.
 - **Data & Visualization:** SQL, MongoDB, Power BI, Tableau  
 - **Tools:** Jupyter, Git
 
----
 
-### To Collaborate or further discuss:
+
+## To Collaborate or further discuss:
 
 * **Email:** shravani22wanjari@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/shravani-wanjari-2197ba22a/
-
----
