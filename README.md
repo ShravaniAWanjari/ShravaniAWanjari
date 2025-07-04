@@ -18,15 +18,6 @@ Currently building an **Autonomous XAI Agent** for financial market insights and
 - **Tools:** Jupyter, Git
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravaniawanjari&show_icons=true&locale=en&layout=compact" alt="shravaniawanjari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shravaniawanjari&show_icons=true&locale=en" alt="shravaniawanjari" /></p>
-
-
-
-
 ## To Collaborate or further discuss:
 
 * **Email:** shravani22wanjari@gmail.com
