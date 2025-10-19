@@ -7,7 +7,7 @@ I'm a final-year student (graduating 2026) focused on **AI/ML**, especially for 
 
 My toolkit includes **Python, C++, R**, and I know my way around **Docker, Kubernetes, FastAPI, and AWS** for deployment.
 
-Currently building an **Autonomous XAI Agent** for financial market insights and learning R and OCaml.
+Currently optimizing a trading bot for a live trading competition.
 
 ## Skills
 
