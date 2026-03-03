@@ -7,7 +7,7 @@ I'm a final-year student (graduating 2026) focused on **Python and C++ Developme
 
 My toolkit includes **Python, C++, R**, and I know my way around **Docker, Kubernetes, FastAPI, and AWS** for deployment.
 
-Currently optimizing a trading bot for a live trading competition.
+Currently trying to recreate a stock exchange engine that can process and maintain 4M trade orders/sec which would help me understand how to approach speed optimization, what to use what to avoid while building things with C++, since I am kinda new at it.
 
 ## Skills
 
