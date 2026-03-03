@@ -5,8 +5,6 @@
 
 I'm a final-year student (graduating 2026) focused on **AI/ML**, especially for **Quant Finance**.
 
-Also working full time at **GoQuant Technologies** as **Quantitative Analyst and Backend Engineer**.
-
 My toolkit includes **Python, C++, R**, and I know my way around **Docker, Kubernetes, FastAPI, and AWS** for deployment.
 
 Currently optimizing a trading bot for a live trading competition.
