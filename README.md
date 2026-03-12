@@ -12,9 +12,9 @@ Currently trying to recreate a stock exchange engine that can process and mainta
 ## Skills
 
 - **Languages:** Python, C++, R  
-- **AI/ML:** NLP, Time Series Analysis, Autonomous Agents, Explainable AI (XAI)  
-- **Infrastructure & Deployment:** Docker, Kubernetes, FastAPI, AWS  
-- **Data & Visualization:** SQL, MongoDB, Power BI, Tableau  
+- **AI/ML:** NLP, Time Series Analysis, Autonomous Agents, Explainable AI (XAI), LLMs, RAG Pipelines. 
+- **Infrastructure & Deployment:** Docker, Kubernetes, FastAPI, AWS Tools
+- **Data & Visualization:** PostGreSQL, MongoDB, Power BI
 - **Tools:** Jupyter, Git
 
 
