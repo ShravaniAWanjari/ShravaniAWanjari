@@ -4,7 +4,7 @@
 
 ## About Me
 
-CS graduate who currently finds  backend systems and quant development fun, and figuring out how to make software go faster.
+CS graduate who currently finds  backend systems, quant development and figuring out how to make software go faster fun.
 
 Most of my time these days goes into building things with C++, Python, and Java. Sometimes that's trading infrastructure, sometimes AI-powered backend systems, and sometimes it's simply building something completely off topic and niche to become more diverse with my experience. (yes this includes working on UI, devops, working on actual problems faced by family and relatives (I mean I am still working on them so kinda in private repos for now)).
 
